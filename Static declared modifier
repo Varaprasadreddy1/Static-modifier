@@ -1,0 +1,11 @@
+class Test {
+  static int x = 10;
+int y = 20;
+public static void main(String[] args) {
+Test t1 = new Test();
+t1.x = 888;
+t2.x = 999;
+Test t2 = new test();
+System.out.println(t2.x + "   + " t2.y);
+}
+}
